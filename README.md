@@ -37,8 +37,6 @@ The goal was to evaluate detection, investigation, and response capabilities usi
 ## 📂 Repository Contents
 - `Allison's SOC_Capstone_Report:`[Allison's SOC_Capstone_Report.pdf](https://github.com/user-attachments/files/21942268/Allison.s.SOC_Capstone_Report.pdf)
 - `Allison's SOC_Capstone_Presentation:`[Allison's SOC_Capstone_Presentation.pdf](https://github.com/user-attachments/files/21942287/Allison.s.SOC_Capstone_Presentation.pdf)
-
-- 
 ---
 
 👨‍💻 **Author:** Allison  
